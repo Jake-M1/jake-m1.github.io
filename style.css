@@ -6,20 +6,25 @@
     font-size: 100%;
     vertical-align: baseline;
     background: transparent;
+    background-color: #202022;
 }
 
 .main {
-    background-color: white;
     text-align: center;
-    color: black;
+    color:white;
     margin: auto;
     font-size: 24px;
     background-size: 100%;
 }
 
+h2 {
+    font-size: 28px;
+}
+
 #name {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 48px;
+    padding-top: 4%;
 }
 
 #picture {
@@ -27,10 +32,60 @@
     margin-left: auto;
     margin-right: auto;
     padding-top: 2%;
-    padding-bottom: 2%;
 }
 
-#aboutme {
-    margin: auto;
-    width: 80%;
+#underpicture {
+    width: 50%;
+    line-height: 1.6em;
+    padding-top: 1%;
+    display: inline-block;
+}
+
+a:link {
+    color:aqua;
+}
+
+a:visited {
+    color:magenta;
+}
+
+.block {
+    width: 50%;
+    line-height: 1.6em;
+    padding-top: 4%;
+    float:none;
+    display: inline-block;
+}
+
+#skills {
+    width: 70%;
+    line-height: 1.6em;
+    padding-top: 4%;
+    float:none;
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#leftskills {
+    padding-top: 1%;
+    float:left;
+    width: 34%;
+    display: inline;
+}
+
+#middleskills {
+    padding-top: 1%;
+    float:left;
+    width: 33%;
+    display: inline;
+}
+
+#rightskills {
+    padding-top: 1%;
+    float:right;
+    width: 33%;
+    display: inline;
 }
