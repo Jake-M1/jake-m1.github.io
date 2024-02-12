@@ -1,2 +1,2 @@
 # My Personal Website
-# * In Progress *
+* In Progress *
