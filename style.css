@@ -57,6 +57,56 @@ a:visited {
     display: inline-block;
 }
 
+.projecttable {
+    display: grid; 
+    grid-template-columns: repeat(3, 1fr); 
+    column-gap: 30px;
+    row-gap: 40px;
+    padding-top: 15px;
+}
+
+#projectbutton1 {
+    background-color: darkslategray;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#projectbutton2 {
+    background-color: darkslategray;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#projectbutton3 {
+    background-color: darkslategray;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#projectbutton4 {
+    background-color: darkslategray;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#projectbutton5 {
+    background-color: darkslategray;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#projectbutton6 {
+    background-color: darkslategray;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 #skills {
     width: 70%;
     line-height: 1.6em;
