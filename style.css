@@ -43,6 +43,7 @@ h2 {
 
 a:link {
     color:aqua;
+    display: inline;
 }
 
 a:visited {
@@ -138,4 +139,24 @@ ul {
     float:right;
     width: 33%;
     display: inline;
+}
+
+.fa-square-github {
+    font-size: 40px;
+}
+
+.fa-linkedin {
+    font-size: 40px;
+}
+
+.fa-code {
+    font-size: 50px;
+}
+
+.fa-computer {
+    font-size: 50px;
+}
+
+.fa-user {
+    font-size: 50px;
 }
