@@ -27,6 +27,13 @@ h2 {
     font-size: 28px;
 }
 
+.headingblock {
+    border-radius: 15px;
+    width: 40%;
+    display: inline-block;
+    margin-top: 3%;
+}
+
 #name {
     display: block;
     margin-left: auto;
@@ -34,7 +41,6 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 48px;
     margin-top: 3%;
-    width: 40%;
     padding-top: 1%;
 }
 
@@ -47,7 +53,6 @@ h2 {
 }
 
 #underpicture {
-    width: 40%;
     line-height: 1.6em;
     padding-top: 1%;
     display: inline-block;
@@ -70,6 +75,7 @@ a:visited {
     float:none;
     display: inline-block;
     padding: 1%;
+    border-radius: 15px;
 }
 
 .projecttable {
@@ -85,6 +91,7 @@ a:visited {
     color: white;
     padding-top: 10px;
     padding-bottom: 10px;
+    border-radius: 10px;
 }
 
 #projectbutton2 {
@@ -92,6 +99,7 @@ a:visited {
     color: white;
     padding-top: 10px;
     padding-bottom: 10px;
+    border-radius: 10px;
 }
 
 #projectbutton3 {
@@ -99,6 +107,7 @@ a:visited {
     color: white;
     padding-top: 10px;
     padding-bottom: 10px;
+    border-radius: 10px;
 }
 
 #projectbutton4 {
@@ -106,6 +115,7 @@ a:visited {
     color: white;
     padding-top: 10px;
     padding-bottom: 10px;
+    border-radius: 10px;
 }
 
 #projectbutton5 {
@@ -113,6 +123,7 @@ a:visited {
     color: white;
     padding-top: 10px;
     padding-bottom: 10px;
+    border-radius: 10px;
 }
 
 #projectbutton6 {
@@ -120,6 +131,7 @@ a:visited {
     color: white;
     padding-top: 10px;
     padding-bottom: 10px;
+    border-radius: 10px;
 }
 
 .skilltable {
@@ -158,4 +170,5 @@ a:visited {
     display: inline-block;
     padding: 1%;
     margin-bottom: 2%;
+    border-radius: 15px;
 }
