@@ -134,6 +134,14 @@ a:visited {
     border-radius: 10px;
 }
 
+#projectbutton7 {
+    background-color: darkslategray;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
 .skilltable {
     display: grid; 
     grid-template-columns: repeat(3, 1fr); 
