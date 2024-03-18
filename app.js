@@ -4,6 +4,7 @@ const projectButton3 = document.querySelector('#projectbutton3');
 const projectButton4 = document.querySelector('#projectbutton4');
 const projectButton5 = document.querySelector('#projectbutton5');
 const projectButton6 = document.querySelector('#projectbutton6');
+const projectButton7 = document.querySelector('#projectbutton7');
 
 projectButton1.addEventListener('click', function() {
     window.open('https://github.com/Jake-M1/SleepRecommendationApp', '_blank');
@@ -27,4 +28,8 @@ projectButton5.addEventListener('click', function() {
 
 projectButton6.addEventListener('click', function() {
     window.open('https://github.com/Jake-M1/WebCrawler', '_blank');
+});
+
+projectButton7.addEventListener('click', function() {
+    window.open('https://github.com/Jake-M1/FiveFunctionCalculator', '_blank');
 });
